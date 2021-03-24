@@ -8,6 +8,9 @@
 
 ## Installation <a name="installation"></a>
 
+Create an anaconda environment and then install the requirements.
+
+conda create --name myenv python=3.8
 pip install -r requirements.txt
 
 ## Project Motivation<a name="motivation"></a>
@@ -35,7 +38,7 @@ There are 1 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@flavio.fukabori/-1d40b2a02b9d).
+The main findings of the code can be found at the post available [here](https://medium.com/@flavio.fukabori/how-much-does-a-night-in-boston-or-seattle-cost-1d40b2a02b9d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
